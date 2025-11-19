@@ -1,0 +1,165 @@
+:root {
+        --bg-ident-visual: linear-gradient(35deg, rgb(1, 0, 35) 0%, rgb(178, 178, 178) 73%, rgb(253, 245, 255) 100%);
+        --bg-ident-footer: linear-gradient(rgb(178, 178, 178) 73%);
+        --bg-ident-seta-carrosel: color: red;
+    }
+
+    * {
+        font-family: "Open Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+        font-variation-settings:
+            "wdth" 100;
+        
+    }
+    main{ 
+        background-color: #fafafa;
+    }
+    p {
+        font-weight: 400;
+        
+    }
+
+    #section_principal {
+        background: var(--bg-ident-visual);
+    }
+
+    #contato {
+        background: var(--bg-ident-visual);
+    }
+
+    #btn-catalogo {
+        text-decoration: none;
+
+        border-radius: 5px;
+        background-color: yellow;
+        color: black;
+        font-weight: bold;
+    }
+
+    .img-detalhes {
+        height: 80px;
+        width: 80px;
+    }
+
+    #img_footer {
+        width: 88px;
+    }
+
+    .link-contato {
+        text-decoration: none;
+        font-weight: 500;
+    }
+
+    #whats {
+        position: fixed;
+        bottom: 1rem;
+        right: 1rem;
+    }
+
+
+
+    #up {
+        position: fixed;
+        bottom: 1rem;
+        left: 1rem;
+    }
+
+    .sizeSubTitle {
+        font-size: 22px;
+    }
+
+    .sizeParagraphContato {
+        font-size: 18px;
+    }
+
+    .container-box{
+        padding: 20px;
+        gap: 1rem;
+    }
+    .container-box-produto{
+        padding: 10px;
+        width: 350px;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgb(142,142,143);
+    }
+    .container-carousel{
+        background-color: #2e6ad9;
+        border-radius: 8px;
+    }
+    .text-home{
+        font-size: 22px;
+        
+    }
+
+    .tamanho-carrosel{
+        height: 722px;
+    }
+    .titulo-contato{
+        font-size: 48px;
+    }
+    .margin-icone{
+        margin-left: 44%;
+    }
+    .border-radius-map{
+        border-radius: 5px;
+    }
+    .tamanho-map{
+        width: 600px;
+        height: 300px;
+        border: 0;
+    }
+
+    .titulo-menu{
+       margin-bottom: 0 !important; 
+    }
+    footer {
+        background: var(--bg-ident-footer);
+    }
+   
+    @media only screen and (max-width: 500px) {
+        #btn-catalogo {
+            padding-top: 15px;
+            padding-right: 28px;
+            padding-bottom: 15px;
+            padding-left: 15px;
+        }
+
+        .link-contato {
+            color: white;
+        }
+
+        #whats img {
+            width: 50px;
+            height: 50px;
+        }
+
+        #up img {
+            width: 50px;
+            height: 50px;
+        }
+    }
+
+    @media only screen and (min-width: 500px) {
+        #btn-catalogo {
+            padding-top: 18px;
+            padding-right: 32px;
+            padding-bottom: 18px;
+            padding-left: 32px;
+        }
+
+        .link-contato {
+            color: black;
+        }
+
+        #whats img {
+            width: 64px;
+            height: 64px;
+        }
+
+        #up img {
+            width: 64px;
+            height: 64px;
+        }
+    }
+

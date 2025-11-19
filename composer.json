@@ -1,0 +1,17 @@
+{
+    "name": "site/vitreon",
+    "description": "site da empresa vitreon",
+    "autoload": {
+        "psr-4": {
+            "site\\Vitreon\\": "src/",
+             "site\\public\\": "public/"
+        }
+    },
+    "authors": [
+        {
+            "name": "viniciusdnb",
+            "email": "viniciusdnb@hotmail.com"
+        }
+    ],
+    "require": {}
+}
