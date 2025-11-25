@@ -81,7 +81,7 @@
                                 <div class="col text-center"><span>ROSCA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse no vidro CHANCE VT 2414" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro CHANCE VT 2414" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>
@@ -131,7 +131,7 @@
                                 <div class="col text-center"><span>FEA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse no vidro LUAN VT 4159" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro LUAN VT 4159" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>
@@ -179,7 +179,7 @@
                                 <div class="col text-center"><span>FEA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse no vidro LUAN VT 2323" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro LUAN VT 2323" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>

@@ -50,9 +50,15 @@ class Start{
 
         if ($_SERVER["SERVER_NAME"] === "localhost") {
             define("LINK", "http://localhost/vitreon/");
+            define("WHATS", "11965757724");
+            define("WHATS_FORMAT", "11 9.6575-7724");
+            define("EMAIL", "vendas@decorgroupbrasil.com.br");
         }
         if ($_SERVER["SERVER_NAME"] === "vitreon.com.br") {
-            define("LINK", "https://vitreon.com.br");
+            define("LINK", "https://vitreon.com.br/");
+            define("WHATS", "11965757724");
+            define("WHATS_FORMAT", "11 9.6575-7724");
+            define("EMAIL", "vendas@decorgroupbrasil.com.br");
         }
     }
 }

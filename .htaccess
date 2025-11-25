@@ -1,15 +1,18 @@
-#proteção do .htaccess
-<files ~ "^.*\.([Hh][Tt][Aa])">
-order allow,deny
-deny from all
-satisfy all
-</files>
-#fim proteção
+# proteção do .htaccess
+<Files ~ "^.*\.([Hh][Tt][Aa])">
+  Require all denied
+</Files>
+# fim proteção
 
 RewriteEngine On
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-l
-            
 RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+<IfModule mod_mime.c>
+  AddHandler application/x-httpd-ea-php82 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

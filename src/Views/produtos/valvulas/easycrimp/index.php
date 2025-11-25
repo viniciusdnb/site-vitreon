@@ -89,7 +89,7 @@
                                 <h3 class="g-4">VÁLVULA EASY CRIMP LISA</h3>
                             </div>
                             <div class="row">
-                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 15MM e 20MM</p>
+                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 14MM</p>
                             </div>
                             <hr>
                             <div class="row">
@@ -109,7 +109,7 @@
                                 </div>
                             </div>
                             <div class="row p-4">
-                                  <a href="https://wa.me/5511914856039?text=ola!tenho interesse na valvula easy crimp lisa" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                  <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse na valvula easy crimp lisa" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
 
@@ -163,7 +163,7 @@
                                 <h3 class="g-4">VÁLVULA EASY CRIMP ANEL INFERIOR</h3>
                             </div>
                             <div class="row">
-                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 15MM e 20MM</p>
+                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 14MM</p>
                             </div>
                             <hr>
                             <div class="row">
@@ -183,7 +183,7 @@
                                 </div>
                             </div>
                             <div class="row p-4">
-                                                              <a href="https://wa.me/5511914856039?text=ola!tenho interesse na valvula easy crimp anel inferior" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                                              <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse na valvula easy crimp anel inferior" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
 
@@ -235,7 +235,7 @@
                                 <h3 class="g-4">VÁLVULA EASY CRIMP ANEL SUPERIOR</h3>
                             </div>
                             <div class="row">
-                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 15MM e 20MM</p>
+                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 14MM</p>
                             </div>
                             <hr>
                             <div class="row">
@@ -255,7 +255,7 @@
                                 </div>
                             </div>
                             <div class="row p-4">
-                               <a href="https://wa.me/5511914856039?text=ola!tenho interesse na valvula easy crimp anel superior" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                               <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse na valvula easy crimp anel superior" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
 

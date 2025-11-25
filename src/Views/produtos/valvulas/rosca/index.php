@@ -88,7 +88,7 @@
                                 <h3 class="g-4 font-title">VÁLVULA ROSCA LISA</h3>
                             </div>
                             <div class="row">
-                                <p class="g-4">A Válvula EASY ROSCA está disponível na terminação 15MM e 20MM</p>
+                                <p class="g-4">A Válvula EASY ROSCA está disponível na terminação 15MM</p>
                             </div>
                             <hr>
                             <div class="row">
@@ -108,7 +108,7 @@
                                 </div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse na valvula ROSCA lisa" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse na valvula ROSCA lisa" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
 
@@ -157,7 +157,7 @@
                                 <h4 class="g-4 font-title">VÁLVULA ROSCA ANEL INFERIOR</h4>
                             </div>
                             <div class="row">
-                                <p class="g-4">A Válvula rosca está disponível na terminação 15MM e 20MM</p>
+                                <p class="g-4">A Válvula rosca está disponível na terminação 15MM</p>
                             </div>
                             <hr>
                             <div class="row">
@@ -177,7 +177,7 @@
                                 </div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse na valvula rosca anel inferior" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse na valvula rosca anel inferior" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
 
@@ -225,7 +225,7 @@
                                 <h5 class="g-4 font-title">VÁLVULA ROSCA ANEL SUPERIOR</h5>
                             </div>
                             <div class="row">
-                                <p class="g-4">A Válvula ROSCA está disponível na terminação 15MM e 20MM</p>
+                                <p class="g-4">A Válvula ROSCA está disponível na terminação 15MM</p>
                             </div>
                             <hr>
                             <div class="row">
@@ -245,7 +245,7 @@
                                 </div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse na valvula rosca anel superior" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse na valvula rosca anel superior" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
 
@@ -314,7 +314,7 @@
                                 </div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse na valvula rosca grande" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse na valvula rosca grande" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
 

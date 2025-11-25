@@ -14,7 +14,6 @@
                             <img src="<?php echo LINK ?>public/img/todas-valvulas-home.png" class="d-block w-100" alt="Válvulas recrave, rosca, easy crimp e mini trigger" loading="lazy">
                         </div>
                     </div>
-
                 </div>
             </div>
             <div class="col-md-6">
@@ -24,19 +23,18 @@
                     </div>
                     <p class="text-light gy-5 p-5 text-home">Especialistas em embalagens para perfumaria, oferecendo frascos de vidro, válvulas recrave, rosca, Easy Crimp e Mini Trigger com qualidade, design e pronta entrega em todo o Brasil.</p>
                     <div class="p-5">
-                        <a href="<?php echo LINK ?>produtos/produtos" class="gy-5 col-6" id="btn-catalogo">VEJA PRODUTOS DE FRASCOS E VÁLVULAS
+                        <a href="<?php echo LINK ?>produtos/produtos" class="col-6" id="btn-catalogo">VEJA O CATÁLOGO DE FRASCOS E VÁLVULAS
                         </a>
                     </div>
                 </div>
             </div>
         </div>
-
     </section>
     <section id="sobre" class="container-fluid p-5">
         <div class="row">
             <div class="col-md-3">
                 <div class="row">
-                    <img class="img-detalhes" src="<?php echo LINK ?>public/img/building.svg" alt="icone de predio">
+                    <img class="img-detalhes" src="<?php echo LINK ?>public/img/building.svg" alt="icone de predio" loading="lazy">
                 </div>
                 <div class="row">
                     <h2 class="sizeSubTitle">Frascos e válvulas para perfumes com o melhor custo-benefício do mercado.</h2>
@@ -44,7 +42,7 @@
             </div>
             <div class="col-md-3">
                 <div class="row">
-                    <img class="img-detalhes" src="<?php echo LINK ?>public/img/blog.svg" alt="icone de papel caneta">
+                    <img class="img-detalhes" src="<?php echo LINK ?>public/img/blog.svg" alt="icone de papel caneta" loading="lazy">
                 </div>
                 <div class="row">
 
@@ -53,7 +51,7 @@
             </div>
             <div class="col-md-3">
                 <div class="row">
-                    <img class="img-detalhes" src="<?php echo LINK ?>public/img/portfolio.svg" alt="icone de selo">
+                    <img class="img-detalhes" src="<?php echo LINK ?>public/img/portfolio.svg" alt="icone de selo" loading="lazy">
                 </div>
                 <div class="row">
 
@@ -62,12 +60,39 @@
             </div>
             <div class="col-md-3">
                 <div class="row">
-                    <img class="img-detalhes" src="<?php echo LINK ?>public/img/shopping-bag.svg" alt="icone de bolsa">
+                    <img class="img-detalhes" src="<?php echo LINK ?>public/img/shopping-bag.svg" alt="icone de bolsa" loading="lazy">
                 </div>
                 <div class="row">
 
                     <h2 class="sizeSubTitle">Entrega rápida e segura para garantir agilidade no seu processo produtivo.</h2>
                 </div>
+            </div>
+        </div>
+    </section>
+    <br>
+    <section>
+        <div class="row text-center">
+            <h5 style="font-size: 26px;" class="p-4">Empresas do Grupo</h5>
+        </div>
+        <div class="row text-center">
+            <div class="col-md p-4">
+                <h5>Decor Group</h5>
+                <a href="https://decorgroup.com.br/" style="text-decoration: none; color:black" target="_blank">
+                    <figure class="p-4">
+                        <img src="<?php echo LINK ?>public/img/logo-decor-135.png" width="250px" alt="logo Decor Group" loading="lazy" >
+                        <figcaption class="p-4">Pintura e Decoração de vidros</figcaption>
+                    </figure>
+                </a>
+            </div>
+            <div class="col-md p-4">
+                <h5>AGF Distribuidora</h5>
+                <a href="https://agfdistribuidora.com.br/" style="text-decoration: none; color:black" target="_blank">
+                    <figure class="p-4">
+                        <img src="<?php echo LINK ?>public/img/AGF_logo.png" width="250px" style="border-radius:5px" alt="logo agf distriuidora" loading="lazy">
+                        <figcaption class="p-4">Distribuidora de Vidros, tampas e valvulas</figcaption>
+                    </figure>
+
+                </a>
             </div>
         </div>
     </section>
@@ -95,11 +120,11 @@
                     <div class="row p-3">
                         <img id="img_footer" class="p-3 margin-icone" src="<?php echo LINK ?>public/img/whatsapp-64.png" alt="icone do whats">
                         <a class="link-contato p-4 sizeParagraphContato"
-                            href="https://wa.me/5511914856039?text=ola! tenho interesse nos produtos" target="_blank" rel="noopener noreferrer">(11) 9.1485-6039</a>
+                            href="https://wa.me/55<?php echo WHATS ?>?text=ola! tenho interesse nos produtos" target="_blank" rel="noopener noreferrer">(11) <?php echo WHATS_FORMAT ?></a>
                     </div>
                     <div class="row p-3">
                         <img id="img_footer" class="p-3 margin-icone" src="<?php echo LINK ?>public/img/gmail-logo-64.png" alt="icone de email">
-                        <a class="link-contato sizeParagraphContato p-4" href="mailto:felipe@decorgroupbrasil.com.br" rel="noopener noreferrer">felipe@decorgroupbrasil.com.br</a>
+                        <a class="link-contato sizeParagraphContato p-4" href="mailto:vendas@decorgroupbrasil.com.br" rel="noopener noreferrer">vendas@decorgroupbrasil.com.br</a>
                     </div>
                 </div>
             </div>
@@ -109,7 +134,6 @@
 
 <div id="up">
     <a href="<?php echo LINK ?>#inicio" class="p-4">
-        <img id="img_footer" src="<?php echo LINK ?>public/img/double-up-64.png" alt="icone para voltar ao topo da pagina" decoding="async"
-loading="lazy">
+        <img id="img_footer" src="<?php echo LINK ?>public/img/double-up-64.png" alt="icone para voltar ao topo da pagina" decoding="async" loading="lazy">
     </a>
 </div>

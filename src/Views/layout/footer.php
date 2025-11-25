@@ -1,5 +1,5 @@
 <div id="whats">
-    <a href="https://wa.me/5511914856039?text=ola! tenho interesse nos produtos" target="_blank" class="p-4" rel="noopener noreferrer" decoding="async"
+    <a href="https://wa.me/5511965757724?text=ola! tenho interesse nos produtos" target="_blank" class="p-4" rel="noopener noreferrer" decoding="async"
 loading="lazy">
         <img id="img_footer" src="<?php echo LINK ?>public/img/whatsapp-96.png" alt="icone do whatsapp">
     </a>

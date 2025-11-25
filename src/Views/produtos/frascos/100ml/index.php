@@ -78,7 +78,7 @@
                                 <div class="col text-center"><span>FEA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse no vidro OBELISK VT 2433" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro OBELISK VT 2433" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>
@@ -126,7 +126,7 @@
                                 <div class="col text-center"><span>FEA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse no vidro SINGULAR VT 4764" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro SINGULAR VT 4764" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>
@@ -174,7 +174,7 @@
                                 <div class="col text-center"><span>FEA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse no vidro CONE VT 2411" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro CONE VT 2411" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>
@@ -222,7 +222,7 @@
                                 <div class="col text-center"><span>FEA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse no vidro DRAKAR VT 2431" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro DRAKAR VT 2431" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>
@@ -270,7 +270,7 @@
                                 <div class="col text-center"><span>FEA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse no vidro PRISMA" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro PRISMA" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>
@@ -318,7 +318,7 @@
                                 <div class="col text-center"><span>FEA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse no vidro KOBO" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro KOBO" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>
@@ -366,7 +366,7 @@
                                 <div class="col text-center"><span>FEA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse no vidro OREON" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro OREON" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>
@@ -414,7 +414,7 @@
                                 <div class="col text-center"><span>FEA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/5511914856039?text=ola!tenho interesse no vidro LUAN VT-4619" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro LUAN VT-4619" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>

@@ -109,7 +109,7 @@
                                 </div>
                             </div>
                             <div class="row p-4">
-                                 <a href="https://wa.me/5511914856039?text=ola!tenho interesse na valvula RECRAVE" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                 <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse na valvula RECRAVE" target="_blank" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
 
