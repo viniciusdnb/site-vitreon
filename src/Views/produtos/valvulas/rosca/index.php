@@ -103,7 +103,7 @@
                                         <div class="col"><span>Prata e Dourado</span></div>
                                         <div class="col"><span>Plástico, mola, esfera e inox</span></div>
                                         <div class="col"><span>Lisa</span></div>
-                                        <div class="col"><span>comrpimento variavel</span></div>
+                                        <div class="col"><span>comprimento variavel</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -172,7 +172,7 @@
                                         <div class="col"><span>Prata e Dourado</span></div>
                                         <div class="col"><span>Plástico, mola, esfera e inox</span></div>
                                         <div class="col"><span>com anel inferior</span></div>
-                                        <div class="col"><span>comrpimento variavel</span></div>
+                                        <div class="col"><span>comprimento variavel</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -240,7 +240,7 @@
                                         <div class="col"><span>Prata e Dourado</span></div>
                                         <div class="col"><span>Plástico, mola, esfera e inox</span></div>
                                         <div class="col"><span>com anel superior</span></div>
-                                        <div class="col"><span>comrpimento variavel</span></div>
+                                        <div class="col"><span>comprimento variavel</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -309,7 +309,7 @@
                                         <div class="col"><span>Natural e Preto com Dourado</span></div>
                                         <div class="col"><span>Plástico, mola, esfera e inox</span></div>
                                         <div class="col"><span>lisa</span></div>
-                                        <div class="col"><span>comrpimento variavel</span></div>
+                                        <div class="col"><span>comprimento variavel</span></div>
                                     </div>
                                 </div>
                             </div>

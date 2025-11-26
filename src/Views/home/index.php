@@ -19,7 +19,7 @@
             <div class="col-md-6">
                 <div class="row">
                     <div class="row p-5">
-                        <h1 class="text-light">Frascos de Vidro e Válvulas para Perfumes</h1>
+                        <h1 class="text-light">Frascos de Vidro e Válvulas para Perfumes com Qualidade e Pronta Entrega</h1>
                     </div>
                     <p class="text-light gy-5 p-5 text-home">Especialistas em embalagens para perfumaria, oferecendo frascos de vidro, válvulas recrave, rosca, Easy Crimp e Mini Trigger com qualidade, design e pronta entrega em todo o Brasil.</p>
                     <div class="p-5">
@@ -72,7 +72,7 @@
     <br>
     <section>
         <div class="row text-center">
-            <h5 style="font-size: 26px;" class="p-4">Empresas do Grupo</h5>
+            <h5 style="font-size: 26px;" class="p-4">Empresas Parceiras</h5>
         </div>
         <div class="row text-center">
             <div class="col-md p-4">

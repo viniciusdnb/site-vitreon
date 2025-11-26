@@ -32,7 +32,7 @@
                 <h1 class="text-center">VÁLVULA PARA FRASCOS</h1>
             </div>
             <div class="row p-2">
-                <h2 class="text-center">Linha de válvluas easy crimp</h2>
+                <h2 class="text-center">Linha de válvuas easy crimp</h2>
             </div>
             <div class="row text-center" style="font-size: 20px;">
                 <p>Válvulas para perfumes de facil aplicação, trazendo elegância e acabamento premium ao seu frasco.</p>
@@ -104,7 +104,7 @@
                                         <div class="col"><span>Preto, Prata e Dourado</span></div>
                                         <div class="col"><span>Plástico, mola, esfera e inox</span></div>
                                         <div class="col"><span>Lisa</span></div>
-                                        <div class="col"><span>comrpimento variavel</span></div>
+                                        <div class="col"><span>comprimento variavel</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -178,7 +178,7 @@
                                         <div class="col"><span>Preto, Prata e Dourado</span></div>
                                         <div class="col"><span>Plástico, mola, esfera e inox</span></div>
                                         <div class="col"><span>com anel inferior</span></div>
-                                        <div class="col"><span>comrpimento variavel</span></div>
+                                        <div class="col"><span>comprimento variavel</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -250,7 +250,7 @@
                                         <div class="col"><span>Preto, Prata e Dourado</span></div>
                                         <div class="col"><span>Plástico, mola, esfera e inox</span></div>
                                         <div class="col"><span>com anel superior</span></div>
-                                        <div class="col"><span>comrpimento variavel</span></div>
+                                        <div class="col"><span>comprimento variavel</span></div>
                                     </div>
                                 </div>
                             </div>

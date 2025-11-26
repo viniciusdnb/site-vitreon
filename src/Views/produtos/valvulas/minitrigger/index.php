@@ -82,7 +82,7 @@
                                         <div class="col"><span>Natural</span></div>
                                         <div class="col"><span>Plástico, mola, esfera e inox</span></div>
                                         <div class="col"><span>Lisa</span></div>
-                                        <div class="col"><span>comrpimento variavel</span></div>
+                                        <div class="col"><span>comprimento variavel</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -133,7 +133,7 @@
                                         <div class="col"><span>preta</span></div>
                                         <div class="col"><span>Plástico, mola, esfera e inox</span></div>
                                         <div class="col"><span>Lisa</span></div>
-                                        <div class="col"><span>comrpimento variavel</span></div>
+                                        <div class="col"><span>comprimento variavel</span></div>
                                     </div>
                                 </div>
                             </div>

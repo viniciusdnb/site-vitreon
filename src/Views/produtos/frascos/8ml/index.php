@@ -78,7 +78,7 @@
                             </div>
                             <div class="row p-4">
                                 <div class="col"><span>TERMINAÇÃO</span></div>
-                                <div class="col text-center"><span>ROSCA *** PEGAR MAIS INFO</span></div>
+                                <div class="col text-center"><span>ROSCA</span></div>
                             </div>
                             <div class="row p-4">
                                 <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro CILINDIRCO VT 0001" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
