@@ -23,7 +23,7 @@
                     </div>
                     <p class="text-light gy-5 p-5 text-home">Especialistas em embalagens para perfumaria, oferecendo frascos de vidro, válvulas recrave, rosca, Easy Crimp e Mini Trigger com qualidade, design e pronta entrega em todo o Brasil.</p>
                     <div class="p-5">
-                        <a href="<?php echo LINK ?>produtos/produtos" class="col-6" id="btn-catalogo">VEJA O CATÁLOGO DE FRASCOS E VÁLVULAS
+                        <a href="<?php echo LINK ?>produtos/produtos" class="col-6" id="btn-catalogo">VEJA O CATÁLOGO DE PRODUTOS
                         </a>
                     </div>
                 </div>
