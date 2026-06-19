@@ -29,10 +29,10 @@
     <main class="container-fluid">
         <section class="container">
             <div class="row p-4">
-                <h1 class="text-center">TAMPAS PAR VALVULAS</h1>
+                <h1 class="text-center">SOBRE TAMPA PARA VALVULAS</h1>
             </div>
             <div class="row">
-                <h2 class="text-center" style="font-size: 20px;">tampa para completar o charme da valvula<h2>
+                <h2 class="text-center" style="font-size: 20px;">Sobre tampa para completar o charme da valvula<h2>
             </div>
      
 
@@ -45,12 +45,12 @@
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
                                             <a href="<?php echo LINK ?>public/img/tampa-dourada.png" target="_blank">
-                                                <img src="<?php echo LINK ?>public/img/tampa-dourada.png" style="width:300px; border-radius: 10px; cursor:zoom-in;"  alt="frasco vt-2433">
+                                                <img src="<?php echo LINK ?>public/img/sobre-tampa-dourada.png" style="width:300px; border-radius: 10px; cursor:zoom-in;"  alt="sobre tampa dourada">
                                             </a>
                                         </div>
                                         <div class="carousel-item">
                                             <a href="<?php echo LINK ?>public/img/tampa-prata.png" target="_blank">
-                                                <img src="<?php echo LINK ?>public/img/tampa-prata.png" style="width:300px; border-radius: 10px; cursor:zoom-in;"  alt="frasco vt-2433-topo">
+                                                <img src="<?php echo LINK ?>public/img/sobre-tampa-prata.png" style="width:300px; border-radius: 10px; cursor:zoom-in;"  alt="sobre tampa prata">
                                             </a>
                                         </div>
                                     </div>
@@ -67,7 +67,7 @@
                         </div>
                         <div class="col">
                             <div class="row">
-                                <h3 class="g-4">TAMPA ALUMINIZADA</h3>
+                                <h3 class="g-4">SOBRE TAMPA ALUMINIZADA</h3>
                             </div>
                             <div class="row p-4">
                                 <div class="col"><span>COR</span></div>
@@ -78,7 +78,7 @@
                                 <div class="col text-center"><span>FEA 15MM</span></div>
                             </div>
                             <div class="row p-4">
-                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse em tampas" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse em sobre tampas" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
                             </div>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
     </main>
 
     <div id="up">
-        <a href="<?php echo LINK ?>produtos/tampa/#inicio" class="p-4">
+        <a href="<?php echo LINK ?>produtos/sobretampa/#inicio" class="p-4">
             <img id="img_footer" src="<?php echo LINK ?>public/img/double-up-64.png" alt="seta para subir">
         </a>
     </div>
