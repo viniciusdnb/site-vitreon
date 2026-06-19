@@ -1,5 +1,6 @@
 :root {
-        --bg-ident-visual: linear-gradient(35deg, rgb(1, 0, 35) 0%, rgb(178, 178, 178) 73%, rgb(253, 245, 255) 100%);
+        --bg-ident-visual-header: linear-gradient(-35deg, rgb(1, 0, 35) 0%, rgb(178, 178, 178) 73%, rgb(253, 245, 255) 100%);
+        --bg-ident-visual-footer: linear-gradient(35deg, rgb(1, 0, 35) 0%, rgb(178, 178, 178) 73%, rgb(253, 245, 255) 100%);
         --bg-ident-footer: linear-gradient(rgb(178, 178, 178) 73%);
         --bg-ident-seta-carrosel: color: red;
     }
@@ -21,11 +22,11 @@
     }
 
     #section_principal {
-        background: var(--bg-ident-visual);
+        background: var(--bg-ident-visual-header);
     }
 
     #contato {
-        background: var(--bg-ident-visual);
+        background: var(--bg-ident-visual-footer);
     }
 
     #btn-catalogo {

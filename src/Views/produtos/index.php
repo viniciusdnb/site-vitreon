@@ -40,7 +40,6 @@
                 </div>
             </div>
         </div>
-
         <div class="row p-5">
             <div class="col">
                 <div class="row">
@@ -59,6 +58,22 @@
             <div class="col text-center">
                 <img src="<?php echo LINK ?>public/img/todas-valvulas.png" class="img-todos-produtos" alt="varias valvulas" loading="lazy">
             </div>
+        </div>
+        
+        <div class="row p-5">
+             <div class="col text-center">
+                <img src="<?php echo LINK ?>public/img/todas-tampas.png" class="img-todos-produtos" alt="varias tampas" loading="lazy">
+            </div>
+            <div class="col">
+                <div class="row">
+                    <h3 class="text-center gy-5">TAMPAS</h3>
+                </div>
+                <div class="row p-4">
+                    <ul class="list-group text-center">
+                        <a  class="list-group-item" href="<?php echo LINK ?>produtos/tampas"><h3 style="font-size: 18px;">TAMPAS 15mm</h3></a>                        
+                </div>
+            </div>
+           
         </div>
     </section>
 </main>

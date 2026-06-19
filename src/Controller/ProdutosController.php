@@ -36,6 +36,9 @@
         function produtos(){
             $this->render("produtos/index");
         }
+        function tampas(){
+            $this->render("produtos/tampas/index");
+        }
     }
 
 ?>

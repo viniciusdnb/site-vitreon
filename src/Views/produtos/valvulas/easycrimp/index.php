@@ -32,7 +32,7 @@
                 <h1 class="text-center">VÁLVULA PARA FRASCOS</h1>
             </div>
             <div class="row p-2">
-                <h2 class="text-center">Linha de válvuas easy crimp</h2>
+                <h2 class="text-center">Linha de válvulas easy crimp</h2>
             </div>
             <div class="row text-center" style="font-size: 20px;">
                 <p>Válvulas para perfumes de facil aplicação, trazendo elegância e acabamento premium ao seu frasco.</p>
@@ -89,7 +89,7 @@
                                 <h3 class="g-4">VÁLVULA EASY CRIMP LISA</h3>
                             </div>
                             <div class="row">
-                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 14MM</p>
+                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 15mm/400</p>
                             </div>
                             <hr>
                             <div class="row">
@@ -163,7 +163,7 @@
                                 <h3 class="g-4">VÁLVULA EASY CRIMP ANEL INFERIOR</h3>
                             </div>
                             <div class="row">
-                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 14MM</p>
+                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 15mm/400</p>
                             </div>
                             <hr>
                             <div class="row">
@@ -235,7 +235,7 @@
                                 <h3 class="g-4">VÁLVULA EASY CRIMP ANEL SUPERIOR</h3>
                             </div>
                             <div class="row">
-                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 14MM</p>
+                                <p class="g-4">A Válvula EASY CRIMP está disponível na terminação 15mm/400</p>
                             </div>
                             <hr>
                             <div class="row">

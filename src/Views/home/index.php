@@ -19,9 +19,12 @@
             <div class="col-md-6">
                 <div class="row">
                     <div class="row p-5">
-                        <h1 class="text-light">Frascos de Vidro e Válvulas para Perfumes com Qualidade e Pronta Entrega</h1>
+                        <h1 class="text-light">Frascos de Vidro, Válvulas e tampas para Perfumes com Qualidade e Pronta Entrega</h1>
                     </div>
-                    <p class="text-light gy-5 p-5 text-home">Especialistas em embalagens para perfumaria, oferecendo frascos de vidro, válvulas recrave, rosca, Easy Crimp e Mini Trigger com qualidade, design e pronta entrega em todo o Brasil.</p>
+                    <p class="text-light gy-3 p-5 text-home">
+                        Especialistas em embalagens para perfumaria e cosméticos, oferecemos soluções completas com frascos de vidro, válvulas recrave, rosca, Easy Crimp, Mini Trigger e tampas para válvulas.</p>
+                    <p class="text-light  p-5 text-home">Com foco em qualidade, design inovador e agilidade, garantimos pronta entrega em todo o Brasil. Nossos produtos são desenvolvidos para atender às necessidades de marcas que buscam excelência e praticidade, com soluções que agregam valor à sua linha de perfumaria e cosméticos.
+                    </p>
                     <div class="p-5">
                         <a href="<?php echo LINK ?>produtos/produtos" class="col-6" id="btn-catalogo">VEJA O CATÁLOGO DE PRODUTOS
                         </a>
@@ -79,7 +82,7 @@
                 <h5>Decor Group</h5>
                 <a href="https://decorgroup.com.br/" style="text-decoration: none; color:black" target="_blank">
                     <figure class="p-4">
-                        <img src="<?php echo LINK ?>public/img/logo-decor-135.png" width="250px" alt="logo Decor Group" loading="lazy" >
+                        <img src="<?php echo LINK ?>public/img/logo-decor-135.png" width="250px" alt="logo Decor Group" loading="lazy">
                         <figcaption class="p-4">Pintura e Decoração de vidros</figcaption>
                     </figure>
                 </a>

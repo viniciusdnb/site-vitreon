@@ -35,8 +35,13 @@
                                 <a class="dropdown-item" href="<?php echo LINK ?>produtos/dosadora">DOSADORA</a>
                                 <a class="dropdown-item" href="<?php echo LINK ?>produtos/minitrigger">MINI TRIGGER</a>
                                 <a class="dropdown-item" href="<?php echo LINK ?>produtos/recrave">RECRAVE</a>
-                            </li>
-                            
+                            </li>  
+                            <li><hr></li>   
+                            <li>
+                                <p class="titulo-menu" >TAMPAS</p>
+                                <a class="dropdown-item" href="<?php echo LINK ?>produtos/easycrimp">TAMPA</a>
+                                
+                            </li>                         
                         </ul>
                     </li>
                     <li class="nav-item">

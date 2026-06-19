@@ -6,6 +6,14 @@
 
 RewriteEngine On
 
+# Forçar HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://vitreon.com.br/$1 [L,R=301]
+
+# Redirecionar www para sem www
+RewriteCond %{HTTP_HOST} ^www\.vitreon\.com\.br [NC]
+RewriteRule ^(.*)$ https://vitreon.com.br/$1 [L,R=301]
+
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-l
