@@ -127,7 +127,7 @@
                     </div>
                     <div class="row p-3">
                         <img id="img_footer" class="p-3 margin-icone" src="<?php echo LINK ?>public/img/gmail-logo-64.png" alt="icone de email">
-                        <a class="link-contato sizeParagraphContato p-4" href="mailto:vendas@decorgroupbrasil.com.br" rel="noopener noreferrer">vendas@decorgroupbrasil.com.br</a>
+                        <a class="link-contato sizeParagraphContato p-4" href="mailto:<?php echo EMAIL ?>" rel="noopener noreferrer"><?php echo EMAIL ?></a>
                     </div>
                 </div>
             </div>

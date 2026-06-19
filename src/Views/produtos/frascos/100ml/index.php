@@ -420,6 +420,50 @@
                     </div>
                 </div>
             </div>
+               <div class="row text-center container-box">
+                <div class="col container-box-produto">
+                    <div class="row">
+                        <div class="col text-center">
+                            <div class="col container-carousel">
+                                <div id="vt-h7k" class="carousel slide">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <a href="<?php echo LINK ?>public/img/vt-h7k.png" target="_blank">
+                                                <img src="<?php echo LINK ?>public/img/vt-h7k.png" style="width:300px; border-radius: 10px; cursor:zoom-in;"  alt="frasco vt-4619">
+                                            </a>
+                                        </div>
+                                        
+                                    </div>
+                                    <button class="carousel-control-prev" type="button" data-bs-target="#vt-h7k" data-bs-slide="prev">
+                                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                        <span class="visually-hidden">Previous</span>
+                                    </button>
+                                    <button class="carousel-control-next" type="button" data-bs-target="#vt-h7k" data-bs-slide="next">
+                                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                        <span class="visually-hidden">Next</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="row">
+                                <h3 class="g-4">FRASCO VOLK - REF: VT-h7k</h3>
+                            </div>
+                            <div class="row p-4">
+                                <div class="col"><span>VOLUME UTIL</span></div>
+                                <div class="col text-center"><span>100ml</span></div>
+                            </div>
+                            <div class="row p-4">
+                                <div class="col"><span>TERMINAÇÃO</span></div>
+                                <div class="col text-center"><span>FEA 15MM</span></div>
+                            </div>
+                            <div class="row p-4">
+                                <a href="https://wa.me/55<?php echo WHATS ?>?text=ola!tenho interesse no vidro VOLK VT-h7k" class="btn btn-primary g-4">SOLICITE UM ORÇAMENTO</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
     </main>
 
