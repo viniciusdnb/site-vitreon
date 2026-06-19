@@ -12,6 +12,9 @@
          function vidro50ml(){
             $this->render("produtos/frascos/50ml/index");
         }
+          function vidro60ml(){
+            $this->render("produtos/frascos/60ml/index");
+        }
          function vidro30ml(){
             $this->render("produtos/frascos/30ml/index");
         }
@@ -37,6 +40,9 @@
             $this->render("produtos/index");
         }
         function tampas(){
+            $this->render("produtos/tampas/index");
+        }
+         function sobretampa(){
             $this->render("produtos/tampas/index");
         }
     }

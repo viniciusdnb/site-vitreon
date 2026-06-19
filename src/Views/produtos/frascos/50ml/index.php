@@ -35,7 +35,7 @@
                 <h2 class="text-center p-2">frascos de vidro de 50ml para perfumes</h2>
             </div>
             <div class="row">
-                <p class="text-center" style="font-size: 20px;">Frascos de 50ml comodidade e levesa para seus perfumes</p>
+                <p class="text-center" style="font-size: 20px;">Frascos de 50ml comodidade e leveza para seus perfumes</p>
             </div>
 
 

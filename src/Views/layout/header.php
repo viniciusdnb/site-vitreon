@@ -20,9 +20,10 @@
 
                             </li>
                             <li>
-                                <p class="titulo-menu" >VIDROS PARA PERFUME</p>
+                                <p class="titulo-menu" >VIDROS PARA PERFUME E SERUM</p>
                                 <a class="dropdown-item" href="<?php echo LINK ?>produtos/vidro100ml">100ML</a>
                                 <a class="dropdown-item" href="<?php echo LINK ?>produtos/vidro75ml">75ML</a>
+                                <a class="dropdown-item" href="<?php echo LINK ?>produtos/vidro60ml">60ML</a>
                                 <a class="dropdown-item" href="<?php echo LINK ?>produtos/vidro50ml">50ML</a>
                                 <a class="dropdown-item" href="<?php echo LINK ?>produtos/vidro30ml">30ML</a>
                                 <a class="dropdown-item" href="<?php echo LINK ?>produtos/vidro8ml">8,5ML</a>
@@ -39,7 +40,7 @@
                             <li><hr></li>   
                             <li>
                                 <p class="titulo-menu" >TAMPAS</p>
-                                <a class="dropdown-item" href="<?php echo LINK ?>produtos/easycrimp">TAMPA</a>
+                                <a class="dropdown-item" href="<?php echo LINK ?>produtos/sobretampa">SOBRE TAMPAS</a>
                                 
                             </li>                         
                         </ul>

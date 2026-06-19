@@ -33,6 +33,7 @@
                     <ul class="list-group text-center">
                         <a class="list-group-item" href="<?php echo LINK ?>produtos/vidro100ml">100ML</a>
                         <a class="list-group-item" href="<?php echo LINK ?>produtos/vidro75ml">75ML</a>
+                        <a class="list-group-item" href="<?php echo LINK ?>produtos/vidro60ml">60ML</a>
                         <a class="list-group-item" href="<?php echo LINK ?>produtos/vidro50ml">50ML</a>
                         <a class="list-group-item" href="<?php echo LINK ?>produtos/vidro30ml">30ML</a>
                         <a class="list-group-item" href="<?php echo LINK ?>produtos/vidro8ml">8,5ML</a>
