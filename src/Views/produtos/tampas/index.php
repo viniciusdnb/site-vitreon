@@ -29,7 +29,8 @@
     <main class="container-fluid">
         <section class="container">
             <div class="row p-4">
-                <h1 class="text-center">SOBRE TAMPA PARA VALVULAS</h1>
+                <h1 class="text-center">SOBRE TAMPA ALUMINIZADA</h1>
+                
             </div>
             <div class="row">
                 <h2 class="text-center" style="font-size: 20px;">Sobre tampa para completar o charme da valvula<h2>
@@ -67,7 +68,7 @@
                         </div>
                         <div class="col">
                             <div class="row">
-                                <h3 class="g-4">SOBRE TAMPA ALUMINIZADA</h3>
+                                <h3 class="g-4">SOBRE TAMPA ALUMINIZADA PARA VALVULAS</h3>
                             </div>
                             <div class="row p-4">
                                 <div class="col"><span>COR</span></div>

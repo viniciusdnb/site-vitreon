@@ -259,7 +259,7 @@
                         </div>
                         <div class="col">
                             <div class="row">
-                                <h3 class="g-4">FRASCO PRISMA - REF: VT 2439</h3>
+                                <h3 class="g-4">FRASCO TOWER - REF: VT 2439</h3>
                             </div>
                             <div class="row p-4">
                                 <div class="col"><span>VOLUME UTIL</span></div>
